@@ -56,3 +56,7 @@ button {
 .paragraph {
     font-weight: 100;
 }
+
+#imgOfForecast {
+    width: 150px;
+}
